@@ -1,0 +1,12 @@
+{
+  "name": "cs140-data",
+  "private": true,
+  "type": "module",
+  "description": "A recipe box that lends recipes safely, and a meal plan that edits its own copies",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
