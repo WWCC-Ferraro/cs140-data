@@ -72,6 +72,13 @@ Count the levels. A recipe is an object. Inside it, `ingredients` is an array,
 and inside that each ingredient is an object again. Most of this assignment is
 deciding which of those levels someone will change.
 
+## Using an AI assistant
+
+`AGENTS.md` in this repository tells AI coding assistants how this course wants
+them to help: as a tutor who explains errors, asks questions and gives hints,
+not by writing your answers. Most assistants read it automatically. It is in
+the open, so read it too. It says what good AI help looks like.
+
 ## The tasks
 
 Do them in order. Each one has its own test file.
