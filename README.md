@@ -13,14 +13,14 @@ about.
 
 ## Getting started
 
-1. Create your own repository from this template: **Use this template → Create a
-   new repository**.
-2. Open it one of two ways. Both work equally well.
-   - **In a Codespace:** on your repository, **Code → Codespaces → Create
-     codespace**. Node is already installed.
-   - **On your own machine:** clone it, and check `node --version` says 22 or
-     later.
-3. Run the tests:
+1. Open **your repository**. It is made for you: private, and named for this
+   homework, the term and your username — `<term>-cs140-data-<you>`. On
+   [this homework's page](https://wwcc.dev/#/lesson/data-assignment), type your GitHub
+   username and click **Open my Codespace**. On your own computer, clone it
+   with GitHub Desktop (**Code**, then **Open with GitHub Desktop**) and check
+   that `node --version` prints 22 or later. Start Here's *How a homework works*
+   walks through both.
+2. Run the tests:
 
    ```bash
    npm test
